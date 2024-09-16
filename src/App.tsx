@@ -5,7 +5,7 @@ function App() {
 	return (
 		<>
 			<img src={imageTest} />
-			<h1>Recipe Page</h1>
+			<h1>Recipe Page testing deployment</h1>
 		</>
 	);
 }
